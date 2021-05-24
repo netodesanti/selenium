@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-24T19:05:11Z" name="Surefire suite" finished-at="2021-05-24T19:05:18Z" duration-ms="6392">
+    <groups>
+    </groups>
+    <test started-at="2021-05-24T19:05:11Z" name="Surefire test" finished-at="2021-05-24T19:05:18Z" duration-ms="6392">
+      <class name="testing.FirstTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testing.FirstTest@424e1977]" started-at="2021-05-24T13:05:11Z" name="beforeTest" finished-at="2021-05-24T13:05:13Z" duration-ms="1694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="firstChrome()[pri:0, instance:testing.FirstTest@424e1977]" started-at="2021-05-24T13:05:13Z" name="firstChrome" finished-at="2021-05-24T13:05:17Z" duration-ms="4493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstChrome -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testing.FirstTest@424e1977]" started-at="2021-05-24T13:05:17Z" name="afterTest" finished-at="2021-05-24T13:05:18Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testing.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
